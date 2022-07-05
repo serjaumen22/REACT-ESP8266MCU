@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_launch_screen.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_launch_screen.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\drawable-xhdpi\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_launch_screen.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\drawable-mdpi\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_launch_screen.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\drawable-hdpi\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_launch_screen.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\drawable-xxhdpi\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_launch_screen.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\drawable\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Downloads\\Nueva carpeta (78)\\mqtt22\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
